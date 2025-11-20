@@ -1,0 +1,396 @@
+=== CARD 1 ===
+Col  1: 11 7
+Col  2: 11 9
+Col  3: 11 6
+Col  4: 12 7
+Col  5: 11 9
+Col  6: 12 1
+Col  7: 11 4
+Col  8: BLANK
+Col  9: 11 4
+Col 10: 12 0
+Col 11: 12 9
+Col 12: 11 5
+Col 13: 0 3
+Col 14: 12 5
+Col 15: 12 7
+Col 16: 12 5
+Col 17: 11 9
+Col 18: BLANK
+Col 19: 12 1
+Col 20: 0 3 8
+Col 21: 0 5
+Col 22: 0 3 8
+Col 23: 12 6
+Col 24: 0 3 8
+Col 25: 0 3
+Col 26: 0 3 8
+Col 27: 12 9
+Col 28: 12 0
+Col 29: 11 9
+Col 30: 12 5
+Col 31: 12 1
+Col 32: 11 3
+Col 33: BLANK
+Col 34: 12 8
+Col 35: 12 0
+Col 36: 12 1
+Col 37: 3 8
+Col 38: 5
+Col 39: 0
+Col 40: 0
+Col 41: 0
+Col 42: 0
+Col 43: 6 8
+Col 44: 0 5
+Col 45: 3 8
+Col 46: 11
+Col 47: 1
+Col 48: 0
+Col 49: 0
+Col 50: 6 8
+Col 51: 12 6
+Col 52: 3 8
+Col 53: 2
+Col 54: 0
+Col 55: 0
+Col 56: 0
+Col 57: 6 8
+Col 58: 0 3
+Col 59: 3 8
+Col 60: 1
+Col 61: 0
+Col 62: 0
+Col 63: 6 8
+Col 64: 12 8
+Col 65: 3 8
+Col 66: 1
+Col 67: 0
+Col 68: 0
+Col 69: 12 0
+Col 70: 11 7
+Col 71: 11 9
+Col 72: 12 9
+Col 73: 11 5
+Col 74: 0 3
+Col 75: 11 4 8
+Col 76: 0 3 8
+Col 77: 5 8
+Col 78: 11 3
+Col 79: 0 4
+Col 80: 11 5
+
+=== CARD 2 ===
+Col  1: 12 1
+Col  2: 11 9
+Col  3: BLANK
+Col  4: 11 3
+Col  5: 12 1
+Col  6: 11 5
+Col  7: 12 4
+Col  8: 12 5
+Col  9: 11 9
+Col 10: 5 8
+Col 11: 12 0
+Col 12: 12 4
+Col 13: 11 6
+Col 14: BLANK
+Col 15: 0 6
+Col 16: 12 8
+Col 17: 12 9
+Col 18: 11 3
+Col 19: 12 5
+Col 20: 12 5 8
+Col 21: 12 1
+Col 22: 0 4 8
+Col 23: 0
+Col 24: 11 5 8
+Col 25: 12 0
+Col 26: 11 7
+Col 27: 11 9
+Col 28: 12 9
+Col 29: 11 5
+Col 30: 0 3
+Col 31: 11 4 8
+Col 32: 0 3 8
+Col 33: 5 8
+Col 34: 12 1
+Col 35: 2 8
+Col 36: 5 8
+Col 37: 0 3 8
+Col 38: 12 1
+Col 39: 0 3 8
+Col 40: 5 8
+Col 41: 0 5
+Col 42: 2 8
+Col 43: 5 8
+Col 44: 0 3 8
+Col 45: 0 5
+Col 46: 0 3 8
+Col 47: 5 8
+Col 48: 12 6
+Col 49: 2 8
+Col 50: 5 8
+Col 51: 0 3 8
+Col 52: 12 6
+Col 53: 12 0
+Col 54: 12 9
+Col 55: 12 6
+Col 56: 12 5 8
+Col 57: 12 6
+Col 58: 12 4 8
+Col 59: 1
+Col 60: 0
+Col 61: 0
+Col 62: 11 5 8
+Col 63: 11 7
+Col 64: 11 9
+Col 65: 12 9
+Col 66: 11 5
+Col 67: 0 3
+Col 68: 11 4 8
+Col 69: 0 3 8
+Col 70: 5 8
+Col 71: 11 3
+Col 72: 11 6
+Col 73: 0 6
+Col 74: BLANK
+Col 75: 12 6
+Col 76: 0 4
+Col 77: 12 5
+Col 78: 11 3
+Col 79: 5 8
+Col 80: 12 0
+
+=== CARD 3 ===
+Col  1: 11 9
+Col  2: 12 5
+Col  3: 12 1
+Col  4: 12 4
+Col  5: 11 4 8
+Col  6: 0 3 8
+Col  7: 12 9
+Col  8: 12 0
+Col  9: 12 9
+Col 10: 12 6
+Col 11: 12 5 8
+Col 12: 12 9
+Col 13: 0 4 8
+Col 14: 0 3
+Col 15: 11 5 8
+Col 16: 12 9
+Col 17: 3 8
+Col 18: 0 3
+Col 19: 12 0
+Col 20: 12 9
+Col 21: 12 6
+Col 22: 12 5 8
+Col 23: 12 9
+Col 24: 0 4 8
+Col 25: 12 6
+Col 26: 11 5 8
+Col 27: 12 9
+Col 28: 3 8
+Col 29: 12 6
+Col 30: 12 0
+Col 31: 12 6
+Col 32: 3 8
+Col 33: 12 6
+Col 34: 11
+Col 35: 12 9
+Col 36: 6 8
+Col 37: 0 5
+Col 38: 3 8
+Col 39: 0 5
+Col 40: 12
+Col 41: 12 9
+Col 42: 0 1
+Col 43: 4
+Col 44: 11
+Col 45: 2
+Col 46: 6 8
+Col 47: 12 1
+Col 48: 3 8
+Col 49: 12 1
+Col 50: 12
+Col 51: 0 5
+Col 52: 12 0
+Col 53: 12 9
+Col 54: 12 6
+Col 55: 12 5 8
+Col 56: 0 5
+Col 57: 12 4 8
+Col 58: 11
+Col 59: 2
+Col 60: 0
+Col 61: 11 5 8
+Col 62: 12 8
+Col 63: 3 8
+Col 64: 12 8
+Col 65: 11
+Col 66: 5
+Col 67: 12 0
+Col 68: 12 9
+Col 69: 12 6
+Col 70: 12 5 8
+Col 71: 12 8
+Col 72: 12 4 8
+Col 73: 0
+Col 74: 11 5 8
+Col 75: 12 5
+Col 76: 0 7
+Col 77: 12 9
+Col 78: 0 3
+Col 79: 12 0
+Col 80: 12 5
+
+=== CARD 4 ===
+Col  1: 11 5
+Col  2: 12 4
+Col  3: 12 4
+Col  4: 11 6
+Col  5: 12 0
+Col  6: 12 9
+Col  7: 12 6
+Col  8: 12 5 8
+Col  9: 12 1
+Col 10: 12 4 8
+Col 11: 3 8
+Col 12: 0
+Col 13: 12 3 8
+Col 14: 12 1
+Col 15: 11 5
+Col 16: 12 4
+Col 17: 12 3 8
+Col 18: 0 5
+Col 19: 0 4 8
+Col 20: 11
+Col 21: 5
+Col 22: 12 3 8
+Col 23: 12 1
+Col 24: 11 5
+Col 25: 12 4
+Col 26: 12 3 8
+Col 27: 12 8
+Col 28: 0 4 8
+Col 29: 3
+Col 30: 0
+Col 31: 11 5 8
+Col 32: 0 3
+Col 33: 12 8
+Col 34: 12 5
+Col 35: 11 5
+Col 36: 12 0
+Col 37: 11 7
+Col 38: 11 9
+Col 39: 12 9
+Col 40: 11 5
+Col 41: 0 3
+Col 42: 11 4 8
+Col 43: 0 3 8
+Col 44: 5 8
+Col 45: 11 3
+Col 46: 12 1
+Col 47: 11 5
+Col 48: 12 4
+Col 49: 12 5
+Col 50: 12 4
+Col 51: 5 8
+Col 52: 12 0
+Col 53: 11 7
+Col 54: 11 9
+Col 55: 12 9
+Col 56: 11 5
+Col 57: 0 3
+Col 58: 11 4 8
+Col 59: 0 3 8
+Col 60: 5 8
+Col 61: 12 6
+Col 62: 11 3
+Col 63: 12 1
+Col 64: 12 7
+Col 65: 12 7 8
+Col 66: 11 4
+Col 67: 0
+Col 68: 0
+Col 69: 11 5
+Col 70: 0 11
+Col 71: 11 3
+Col 72: 4
+Col 73: 11 5
+Col 74: 12 4
+Col 75: 3
+Col 76: 11 9
+Col 77: 0 11
+Col 78: 11 4
+Col 79: 4
+Col 80: 0 2
+
+=== CARD 5 ===
+Col  1: 0 3
+Col  2: 3
+Col  3: 11 9
+Col  4: 11 7 8
+Col  5: 5 8
+Col  6: 12 0
+Col  7: 12 5
+Col  8: 11 3
+Col  9: 0 2
+Col 10: 12 5
+Col 11: BLANK
+Col 12: 12 9
+Col 13: 12 6
+Col 14: 12 5 8
+Col 15: 12 1
+Col 16: 12 4 8
+Col 17: 3 8
+Col 18: 0
+Col 19: 11 5 8
+Col 20: 0 3
+Col 21: 12 8
+Col 22: 12 5
+Col 23: 11 5
+Col 24: 12 0
+Col 25: 11 7
+Col 26: 11 9
+Col 27: 12 9
+Col 28: 11 5
+Col 29: 0 3
+Col 30: 11 4 8
+Col 31: 0 3 8
+Col 32: 5 8
+Col 33: 12 3
+Col 34: 11 9
+Col 35: 12 1
+Col 36: 0 2
+Col 37: 12 8
+Col 38: 5 8
+Col 39: 12 0
+Col 40: 12 5
+Col 41: 11 3
+Col 42: 0 2
+Col 43: 12 5
+Col 44: 12 0
+Col 45: 11 7
+Col 46: 11 9
+Col 47: 12 9
+Col 48: 11 5
+Col 49: 0 3
+Col 50: 11 4 8
+Col 51: 0 3 8
+Col 52: 5 8
+Col 53: 12 4
+Col 54: 12 5
+Col 55: 12 1
+Col 56: 12 4
+Col 57: 5 8
+Col 58: 12 0
+Col 59: 12 5
+Col 60: 11 5
+Col 61: 12 4
+Col 62: 12 9
+Col 63: 12 6
+Col 64: 12 0
+Col 65: 12 5
+Col 66: 11 5
+Col 67: 12 4
