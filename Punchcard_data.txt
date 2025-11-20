@@ -6,7 +6,7 @@ Col  4: 12 7
 Col  5: 11 9
 Col  6: 12 1
 Col  7: 11 4
-Col  8: BLANK
+Col  8: 12
 Col  9: 11 4
 Col 10: 12 0
 Col 11: 12 9
@@ -16,7 +16,7 @@ Col 14: 12 5
 Col 15: 12 7
 Col 16: 12 5
 Col 17: 11 9
-Col 18: BLANK
+Col 18: 12
 Col 19: 12 1
 Col 20: 0 3 8
 Col 21: 0 5
@@ -31,7 +31,7 @@ Col 29: 11 9
 Col 30: 12 5
 Col 31: 12 1
 Col 32: 11 3
-Col 33: BLANK
+Col 33: 12
 Col 34: 12 8
 Col 35: 12 0
 Col 36: 12 1
@@ -83,7 +83,7 @@ Col 80: 11 5
 === CARD 2 ===
 Col  1: 12 1
 Col  2: 11 9
-Col  3: BLANK
+Col  3: 12
 Col  4: 11 3
 Col  5: 12 1
 Col  6: 11 5
@@ -94,7 +94,7 @@ Col 10: 5 8
 Col 11: 12 0
 Col 12: 12 4
 Col 13: 11 6
-Col 14: BLANK
+Col 14: 12
 Col 15: 0 6
 Col 16: 12 8
 Col 17: 12 9
@@ -154,7 +154,7 @@ Col 70: 5 8
 Col 71: 11 3
 Col 72: 11 6
 Col 73: 0 6
-Col 74: BLANK
+Col 74: 12
 Col 75: 12 6
 Col 76: 0 4
 Col 77: 12 5
@@ -337,7 +337,7 @@ Col  7: 12 5
 Col  8: 11 3
 Col  9: 0 2
 Col 10: 12 5
-Col 11: BLANK
+Col 11: 12
 Col 12: 12 9
 Col 13: 12 6
 Col 14: 12 5 8
